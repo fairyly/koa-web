@@ -18,6 +18,8 @@ app.use(async ctx => {
 });
 
 app.listen(3000);
+
+app.js 中有一个 ctx，这是一个 Koa 提供的 Context 对象，封装了 request 和 response
 ```
 
 ## install
