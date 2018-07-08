@@ -29,6 +29,11 @@ npm i koa -S
 npm install -g koa-generator
 
  koa2 Hello
+ 
+ cd Hello
+$ npm install
+  npm start
+
 ```
 
 
